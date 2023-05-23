@@ -59,7 +59,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/98255110?v=4" width="100px;" alt="Mayank Ghatpande"/>
                     <br />
                     <sub><b>Mayank Ghatpande
-                    g</b></sub>
+                    </b></sub>
                 </a>
             </td>
             <td align="center">
