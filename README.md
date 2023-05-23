@@ -56,15 +56,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/mayankghatpande">
-                    <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Mayank Ghatpande"/>
+                    <img src="https://avatars.githubusercontent.com/u/98255110?v=4" width="100px;" alt="Mayank Ghatpande"/>
                     <br />
                     <sub><b>Mayank Ghatpande
-                    </b></sub>
+                    g</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/druvkotwani">
-                    <img src="https://avatars.githubusercontent.com/u/98255110?v=4" width="100px;" alt="Dhruv Kotwani"/>
+                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
                     <sub><b>Dhruv Kotwani</b></sub>
                 </a>
